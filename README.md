@@ -1,4 +1,5 @@
 # Anton Miroshkin
+Senior .NET Software Engineer | Senior Full-Stack Developer | Development Tech Lead
 
 📧 Email: anton.miroshkin@gmail.com
 
@@ -8,9 +9,7 @@
 
 📍 Location: [Málaga, Andalusia, Spain](https://maps.app.goo.gl/MFTqi6tQheXa8xZL7)
 
-## Headline
 
-Senior .NET Software Engineer | Senior Full-Stack Developer | Development Tech Lead
 
 ## About
 
