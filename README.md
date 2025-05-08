@@ -31,7 +31,7 @@ Experienced Senior .NET Full-Stack Developer with a proven track record in manag
 
 **Emex Group** · Full-time  
 **Sep 2016 – Oct 2020** · 4 yrs 2 mos  
-**Dzerzhinskiy, Moscow, Russia** · Hybrid  
+**Moscow City, Russia** · Hybrid  
 
 - Developed web services and applications for customer relationship management.  
 - Implemented counterfeit detection functionality for a warehouse management system.  
